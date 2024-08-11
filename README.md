@@ -2,7 +2,8 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on similar intrest persons
-- 📫 How to reach me 
+- 📫 How to reach me
+- You Can't
 
 <!---
 ChristopherJoshy/ChristopherJoshy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
