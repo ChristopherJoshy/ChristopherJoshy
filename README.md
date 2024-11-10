@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christopherjoshy&theme=radical" alt="Streak Stats" />
+  
 </p>
 
 <h3 align="center" style="color: #00C9FF;">✨ Thanks for visiting my profile! 🚀</h3>
