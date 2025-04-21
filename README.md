@@ -27,6 +27,49 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"> 
 </p>
 
+<!-- ASCII Art Section -->
+<details>
+<summary align="center"><h3>:art: ASCII Art Break :art:</h3></summary>
+<div align="center" style="background-color: #222330; border-radius: 10px; padding: 10px; margin: 15px;">
+<pre style="color: #00C9FF; font-size: 10px; font-family: 'Courier New', Courier, monospace; line-height: 1.0;">
+
+
+                                       ██╗      ██████╗  ██████╗ ██╗ ██████╗
+                                       ██║     ██╔═══██╗██╔════╝ ██║██╔════╝
+                                       ██║     ██║   ██║██║  ███╗██║██║     
+                                       ██║     ██║   ██║██║   ██║██║██║     
+                                       ███████╗╚██████╔╝╚██████╔╝██║╚██████╗
+                                       ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝ ╚═════╝
+
+
+        _____                    _____                    _____                    _____          
+       /\    \                  /\    \                  /\    \                  /\    \         
+      /::\____\                /::\____\                /::\____\                /::\____\        
+     /::::|   |               /::::|   |               /::::|   |               /::::|   |        
+    /:::::|   |              /:::::|   |              /:::::|   |              /:::::|   |        
+   /::::::|   |             /::::::|   |             /::::::|   |             /::::::|   |        
+  /:::/|::|   |            /:::/|::|   |            /:::/|::|   |            /:::/|::|   |        
+ /:::/ |::|   |           /:::/ |::|   |           /:::/ |::|   |           /:::/ |::|   |        
+/:::/  |::|___|______    /:::/  |::|___|______    /:::/  |::|___|______    /:::/  |::|___|______  
+/:::/   |::::::::\   \  /:::/   |::::::::\   \  /:::/   |::::::::\   \  /:::/   |::::::::\   \ 
+/:::/    |:::::::::\___\/:::/    |:::::::::\___\/:::/    |:::::::::\___\/:::/    |:::::::::\___\ 
+\::/    / ~~~~~/:::/   /\::/    / ~~~~~/:::/   /\::/    / ~~~~~/:::/   /\::/    / ~~~~~/:::/   / 
+ \/____/      /:::/   /  \/____/      /:::/   /  \/____/      /:::/   /  \/____/      /:::/   /  
+             /:::/   /               /:::/   /               /:::/   /               /:::/   /   
+            /:::/   /               /:::/   /               /:::/   /               /:::/   /    
+           /:::/   /               /:::/   /               /:::/   /               /:::/   /     
+          /:::/   /               /:::/   /               /:::/   /               /:::/   /      
+         /:::/   /               /:::/   /               /:::/   /               /:::/   /       
+        /:::/   /               /:::/   /               /:::/   /               /:::/   /        
+        \::/   /                \::/   /                \::/   /                \::/   /         
+         \/___/                  \/___/                  \/___/                  \/___/          
+                                                                                               
+
+
+</pre>
+</div>
+</details>
+
 <!-- Main Content Area -->
 <table width="95%" align="center">
 <tr>
@@ -112,29 +155,100 @@
 </tr>
 </table>
 
-<!-- Stats Section -->
+<!-- Featured Projects Section -->
 <details open>
-<summary align="center"><h3>:bar_chart: GitHub Stats & Activity :bar_chart:</h3></summary>
+<summary align="center"><h3>:star: Featured Projects :star:</h3></summary>
 <table width="95%" align="center" style="border: 1px solid #333; border-radius: 10px; background-color: #222330; padding: 15px;">
 <tr><td>
+  <p align="center">Here are a few projects I've worked on. More details can be found in their respective repositories!</p>
+  <br>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christopherjoshy&theme=tokyonight" alt="Profile Details" width="80%"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherjoshy&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" alt="Top Languages" /> 
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=christopherjoshy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christopherjoshy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christopherjoshy&bg_color=1A1B27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&theme=tokyonight" alt="GitHub Activity Graph" width="80%"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=christopherjoshy&theme=discord&column=-1&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophy" width="80%"/>
-  <br><br>
-  <img src="https://metrics.lecoq.io/christopherjoshy?template=classic&config_timezone=Asia/Kolkata&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.octicon=true&theme=tokyonight" alt="GitHub Metrics Achievements" width="80%"/>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/christopherjoshy/christopherjoshy/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="80%">
-</div>
+  <!-- Project 1: Simple-Quiz-Website -->
+  <table width="90%" align="center" style="border: 1px solid #555; border-radius: 8px; background-color: #1A1B27; padding: 10px; margin-bottom: 15px;">
+    <tr>
+      <td width="70%" valign="top">
+        <h4><a href="https://github.com/ChristopherJoshy/Simple-Quiz-Website">Simple-Quiz-Website</a></h4>
+        <p>A straightforward quiz application built with fundamental web technologies. Features dynamic question loading and score tracking.</p>
+        <p><sub><b>Tech:</b> JavaScript, CSS, HTML</sub></p>
+      </td>
+      <td width="30%" align="center">
+        <!-- Placeholder for project image/gif -->
+        <img src="https://via.placeholder.com/150x100/1A1B27/00C9FF?text=Quiz+App+Preview" alt="Quiz App Preview">
+      </td>
+    </tr>
+  </table>
 
+  <!-- Project 2: KKNotesV2 -->
+  <table width="90%" align="center" style="border: 1px solid #555; border-radius: 8px; background-color: #1A1B27; padding: 10px; margin-bottom: 15px;">
+    <tr>
+      <td width="70%" valign="top">
+        <h4><a href="https://github.com/ChristopherJoshy/KKNotesV2">KKNotesV2</a></h4>
+        <p>A comprehensive study resource platform designed for KTU Computer Science Engineering students, providing easy access to notes, videos, and materials.</p>
+        <p><sub><b>Tech:</b> JavaScript, [Frontend Framework?], [Backend Tech?], [Database?]</sub></p>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://via.placeholder.com/150x100/1A1B27/00C9FF?text=KKNotes+Preview" alt="KKNotes Preview">
+      </td>
+    </tr>
+  </table>
+
+  <!-- Project 3: Hexinox-MakeIT -->
+  <table width="90%" align="center" style="border: 1px solid #555; border-radius: 8px; background-color: #1A1B27; padding: 10px; margin-bottom: 15px;">
+    <tr>
+      <td width="70%" valign="top">
+        <h4><a href="https://github.com/ChristopherJoshy/Hexinox-MakeIT">Hexinox-MakeIT</a></h4>
+        <p>Project related to Hexinox MakeIT initiative (details could be added here - what does it do?). Built using the Dart language.</p>
+        <p><sub><b>Tech:</b> Dart, [Flutter?], [Other Frameworks?]</sub></p>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://via.placeholder.com/150x100/1A1B27/00C9FF?text=Hexinox+Preview" alt="Hexinox Preview">
+      </td>
+    </tr>
+  </table>
+
+   <!-- Project 4: Expense-Tracker-Using-C -->
+  <table width="90%" align="center" style="border: 1px solid #555; border-radius: 8px; background-color: #1A1B27; padding: 10px; margin-bottom: 15px;">
+    <tr>
+      <td width="70%" valign="top">
+        <h4><a href="https://github.com/ChristopherJoshy/Expense-Tracker-Using-C">Expense-Tracker-Using-C</a></h4>
+        <p>A simple command-line expense tracker implemented in C. Allows users to add, view, and manage expenses.</p>
+        <p><sub><b>Tech:</b> C</sub></p>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://via.placeholder.com/150x100/1A1B27/00C9FF?text=Expense+Tracker" alt="Expense Tracker Preview">
+      </td>
+    </tr>
+  </table>
+
+  <!-- Add more projects similarly -->
+
+</td></tr>
+</table>
+</details>
+
+<!-- Current Focus / Goals Section -->
+<details open>
+<summary align="center"><h3>:🎯: Current Focus & Future Goals :🎯:</h3></summary>
+<table width="95%" align="center" style="border: 1px solid #333; border-radius: 10px; background-color: #222330; padding: 15px;">
+<tr><td>
+  <p align="left">
+    <h4>Current Learning:</h4>
+    <ul>
+      <li>Deepening my understanding of <b>C# and the .NET ecosystem</b> for robust backend development and potential game development integration.</li>
+      <li>Exploring advanced <b>React concepts</b> (State Management with Redux/Zustand, Next.js for SSR/SSG) to build more complex and performant web applications.</li>
+      <li>Getting hands-on with <b>Docker and containerization</b> for streamlined development workflows and deployment strategies.</li>
+      <li>Experimenting with basic <b>Machine Learning models using TensorFlow and Scikit-learn</b> on interesting datasets.</li>
+    </ul>
+    
+    <h4>Future Goals:</h4>
+    <ul>
+      <li>Contribute meaningfully to established <b>open-source projects</b>.</li>
+      <li>Develop and deploy a full-stack application incorporating <b>AI/ML features</b>.</li>
+      <li>Gain proficiency in cloud platforms like <b>AWS or Azure</b>, focusing on serverless architectures and managed services.</li>
+      <li>Create a small indie game using <b>Unreal Engine or Unity with C#</b>.</li>
+      <li>Secure an internship/role where I can apply and grow my skills in a collaborative environment.</li>
+    </ul>
+  </p>
 </td></tr>
 </table>
 </details>
