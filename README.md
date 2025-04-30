@@ -9,7 +9,7 @@
   <a href="https://github.com/ChristopherJoshy">
     <img src="https://img.shields.io/github/followers/christopherjoshy?style=for-the-badge&logo=github&color=0d1117&labelColor=64FFDA&logoColor=0d1117" alt="GitHub Followers"/>
   </a>
-  <a href="https://christopherjoshy.github.io/ProtfolioG/">
+  <a href="https://christopherjoshy.github.io/Protfolio/">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=64FFDA" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/christopher-joshy-272a77290/">
