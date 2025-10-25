@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4600&pause=900&color=66D9EF&center=true&vCenter=true&repeat=true&width=500&lines=booting_christopher_joshy;rendering_anime_dev_energy" alt="Typing introduction" />
+	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4600&pause=900&color=66D9EF&center=true&vCenter=true&repeat=true&width=500&lines=...Welcome My Friends...; ... ... ... ...." alt="Typing introduction" />
 	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3800&pause=800&color=F92672&center=true&vCenter=true&repeat=true&width=500&lines=python();rust();flutter();javascript();typescript(0.3);lua();" alt="Stack animation" />
 </div>
 
