@@ -11,7 +11,7 @@ $ motto
 > "Never giving up is my magic."
 
 $ system
-> arch linux user | code editor aesthetic | 
+> Arch Linux user | Married to code | Breathes code
 ```
 
 ```jsonc
@@ -31,7 +31,7 @@ $ system
 		"containers": ["Docker (training arc)"],
 		"languages_in_progress": ["Java (college level)"]
 	},
-	"vibe": "minimal,anime-coded (just when i am done with my life)"
+	"vibe": "minimal, anime-coded (just when I am done with my life)"
 }
 ```
 
