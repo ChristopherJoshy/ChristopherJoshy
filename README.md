@@ -1,5 +1,4 @@
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4600&pause=900&color=66D9EF&center=true&vCenter=true&repeat=true&width=500&lines=...Welcome My Friends...; ... ... ... ...." alt="Typing introduction" />
 	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3800&pause=800&color=F92672&center=true&vCenter=true&repeat=true&width=500&lines=python();rust();flutter();javascript();typescript(0.3);lua();" alt="Stack animation" />
 </div>
 
@@ -12,7 +11,7 @@ $ motto
 > "Never giving up is my magic."
 
 $ system
-> arch linux user | code editor aesthetic | anime energy
+> arch linux user | code editor aesthetic | 
 ```
 
 ```jsonc
@@ -32,7 +31,7 @@ $ system
 		"containers": ["Docker (training arc)"],
 		"languages_in_progress": ["Java (college level)"]
 	},
-	"vibe": "minimal, neon, anime-coded"
+	"vibe": "minimal,anime-coded (just when i am done with my life)"
 }
 ```
 
@@ -47,7 +46,7 @@ fn next_episode() -> &'static str {
 ```
 
 ```ts
-// anime_light_novel_quotes.ts
+// anime_light_novel_quotes_i_love.ts
 export const mantra = "Never giving up is my magic.";
 
 export const quotes = [
@@ -75,12 +74,12 @@ export const quotes = [
 ```
 
 ```diff
-- status: GOD
-+ status: main character energy unlocked
+- status: Human  
++ status: GOD
 ```
 
 
 ```ascii
-/\\   rebooting dreams in real time
-\/  coding, syncing, breathing anime (Jk)
+/\\   rebooting dreams in real time ...
+\/  .....coding, syncing, breathing O2 (error 1243)
 ```
