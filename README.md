@@ -83,3 +83,7 @@ export const quotes = [
 /\\   rebooting dreams in real time ...
 \/  .....coding, syncing, breathing O2 (error 1243)
 ```
+
+<p align="right">
+	<img src="https://komarev.com/ghpvc/?username=ChristopherJoshy&label=visitors&color=FF79C6&style=flat-square" alt="Profile visitor counter" />
+</p>
