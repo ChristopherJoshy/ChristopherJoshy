@@ -1,10 +1,15 @@
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                          CHRISTOPHER JOSHY                                   ║
+║                     🚀 Developer • Gamer • Creator 🚀                        ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-# 👋 CHRISTOPHER JOSHY
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+System+Programmer;Rust+%7C+Python+%7C+Flutter+Enthusiast;Arch+Linux+User+%7C+Open+Source+Advocate;Building+The+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -198,3 +203,12 @@ Tools:           Docker, n8n, Firebase, Supabase
 **Built with 🖤 | Powered by Coffee ☕ & Determination 🔥**
 
 </div>
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║              ⭐ Thanks for visiting! Feel free to connect! ⭐                ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
