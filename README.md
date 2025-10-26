@@ -31,7 +31,7 @@ $ system
 		"containers": ["Docker (training arc)"],
 		"languages_in_progress": ["Java (college level)"]
 	},
-	"vibe": "minimal, anime-coded (just when I am done with my life)"
+	"vibe": "Lazy"
 }
 ```
 
