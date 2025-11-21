@@ -1,89 +1,163 @@
+<!-- HEADER: CYBERPUNK SYSTEM BOOT -->
+
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3800&pause=800&color=F92672&center=true&vCenter=true&repeat=true&width=500&lines=python();rust();flutter();javascript();typescript(0.3);lua();" alt="Stack animation" />
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DJetBrains%2BMono%26weight%3D700%26size%3D28%26duration%3D3000%26pause%3D1000%26color%3D79C0FF%26center%3Dtrue%26vCenter%3Dtrue%26multiline%3Dtrue%26width%3D600%26height%3D100%26lines%3DSYSTEM_OVERRIDE_INITIATED...%3BUSER:%2BCHRISTOPHER_JOSHY%3BSTATUS:%2BGOD_MODE_ACTIVE%3BARCH_LINUX_KERNEL_LOADED." alt="Typing SVG" />
+</a>
 </div>
 
-```bash
-# mission_briefing.sh
-$ whoami
-> christopher_joshy
+<div align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="20" />
+</div>
 
-$ motto
-> "Never giving up is my magic."
+<!-- BADGES & SOCIALS -->
 
-$ system
-> Arch Linux user | Married to code | Breathes code
-```
+<div align="center">
+<a href="https://github.com/ChristopherJoshy">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Class-S--Rank_Developer-79C0FF%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dwhite" />
+</a>
+<a href="https://github.com/ChristopherJoshy">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Guild-Arch_Linux-ff5555%3Fstyle%3Dfor-the-badge%26logo%3Darch-linux%26logoColor%3Dwhite" />
+</a>
+<a href="https://github.com/ChristopherJoshy">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vibe-Lazy_But_Dangerous-bd93f9%3Fstyle%3Dfor-the-badge%26logo%3Dghost%26logoColor%3Dwhite" />
+</a>
+</div>
 
-```jsonc
-{
-	"languages": [
-		"Python",
-		"Rust",
-		"Flutter / Dart",
-		"JavaScript",
-		"TypeScript (still leveling up)",
-		"Lua"
-	],
-	"toolbox": {
-		"engines": ["Unreal Engine (Blueprints + a dash of C++)"],
-		"automation": ["n8n"],
-		"cloud": ["Firebase", "Supabase"],
-		"containers": ["Docker (training arc)"],
-		"languages_in_progress": ["Java (college level)"]
-	},
-	"vibe": "Lazy"
-}
-```
+<br />
 
-```rust
-fn current_focus() -> &'static str {
-		"Sharpening container-fu with Docker while crafting playful Flutter UIs."
-}
+<!-- MAIN GRID -->
 
-fn next_episode() -> &'static str {
-		"Ship something that feels like a cutscene." // keeping the storyboard rolling
-}
-```
+<table align="center" border="0" width="100%">
+<tr>
+<!-- LEFT COLUMN: AVATAR & STATS -->
+<td width="40%" align="center" valign="top">
+<br />
+<img style="border-radius: 15px; border: 2px solid #79C0FF;" src="https://www.google.com/search?q=https://github.com/ChristopherJoshy.png" width="200" alt="Profile Avatar" />
+<br /><br />
 
-```ts
-// anime_light_novel_quotes_i_love.ts
-export const mantra = "Never giving up is my magic.";
+  <!-- RPG STATS -->
+  ```rust
+  struct Player {
+      name: "Christopher",
+      rank: "GOD",
+      mana: "Coffee ☕",
+      quirk: "Married to Code"
+  }
+  ```
+  
+  <!-- GITHUB STATS CARD -->
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristopherJoshy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+</td>
 
-export const quotes = [
-	{
-		series: "Fullmetal Alchemist: Brotherhood",
-		speaker: "Edward Elric",
-		line: "A lesson without pain is meaningless."
-	},
-	{
-		series: "Tengen Toppa Gurren Lagann",
-		speaker: "Kamina",
-		line: "Believe in the me that believes in you."
-	},
-	{
-		series: "One Piece",
-		speaker: "Monkey D. Luffy",
-		line: "If you don't take risks, you can't create a future."
-	},
-	{
-		series: "Attack on Titan",
-		speaker: "Levi Ackerman",
-		line: "The only thing we're allowed to do is to believe that we won't regret the choice we made."
-	}
-] as const;
-```
-
-```diff
-- status: Human  
-+ status: GOD
-```
+<!-- RIGHT COLUMN: INFO & ARSENAL -->
+<td width="60%" valign="top">
 
 
-```ascii
-/\\   rebooting dreams in real time ...
-\/  .....coding, syncing, breathing O2 (error 1243)
-```
+📂 Mission Log: current_focus.exe
 
-<p align="right">
-	<img src="https://komarev.com/ghpvc/?username=ChristopherJoshy&label=visitors&color=FF79C6&style=flat-square" alt="Profile visitor counter" />
+"Never giving up is my magic."
+
+🔭 Current Quest: Sharpening container-fu with Docker.
+
+🎨 Side Quest: Crafting playful Flutter UIs.
+
+🎬 Next Episode: Ship something that feels like a cutscene.
+
+🗡️ Weapon of Choice: Neovim on Arch (btw).
+
+<br />
+
+⚔️ The Arsenal (Tech Stack)
+
+Rank
+
+Tech / Skill Tree
+
+S-Rank
+
+
+
+A-Rank
+
+
+
+Training
+
+
+
+Engines
+
+
+
+</td>
+
+
+</tr>
+</table>
+
+<!-- LORE SECTION (QUOTES) -->
+
+<h3 align="center">📜 The Ancient Texts (Lore)</h3>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<i>"A lesson without pain is meaningless."</i>
+
+
+
+
+— <b>Fullmetal Alchemist</b>
+</td>
+<td align="center">
+<i>"Believe in the me that believes in you."</i>
+
+
+
+
+— <b>Gurren Lagann</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<i>"If you don't take risks, you can't create a future."</i>
+
+
+
+
+— <b>Monkey D. Luffy</b>
+</td>
+<td align="center">
+<i>"No regrets on the choices we make."</i>
+
+
+
+
+— <b>Levi Ackerman</b>
+</td>
+</tr>
+</table>
+</div>
+
+<br />
+
+<!-- SNAKE ANIMATION (REQUIRES GITHUB ACTION) -->
+
+<!-- REPLACE 'ChristopherJoshy' WITH YOUR USERNAME IN THE IMAGE SOURCE BELOW -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github.com/ChristopherJoshy/ChristopherJoshy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<!-- FOOTER -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="20" />
+<br /><br />
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DChristopherJoshy%26label%3DSYSTEM_VISITORS%26color%3D79C0FF%26style%3Dfor-the-badge" alt="Profile visitor counter" />
 </p>
+</div>
