@@ -44,41 +44,6 @@ fn next_episode() -> &'static str {
         "Ship something that feels like a cutscene." // keeping the storyboard rolling
 }
 ```
-
-```ts
-// anime_light_novel_quotes_i_love.ts
-export const mantra = "Never giving up is my magic.";
-
-export const quotes = [
-    {
-        series: "Fullmetal Alchemist: Brotherhood",
-        speaker: "Edward Elric",
-        line: "A lesson without pain is meaningless."
-    },
-    {
-        series: "Tengen Toppa Gurren Lagann",
-        speaker: "Kamina",
-        line: "Believe in the me that believes in you."
-    },
-    {
-        series: "One Piece",
-        speaker: "Monkey D. Luffy",
-        line: "If you don't take risks, you can't create a future."
-    },
-    {
-        series: "Attack on Titan",
-        speaker: "Levi Ackerman",
-        line: "The only thing we're allowed to do is to believe that we won't regret the choice we made."
-    }
-] as const;
-```
-
-```diff
-- status: Human  
-+ status: GOD
-```
-
-
 ```ascii
 /\\   rebooting dreams in real time ...
 \/  .....coding, syncing, breathing O2 (error 1243)
