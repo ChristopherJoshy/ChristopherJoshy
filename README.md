@@ -1,9 +1,6 @@
-````md
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3800&pause=800&color=F92672&center=true&vCenter=true&repeat=true&width=500&lines=python();rust();flutter();javascript();typescript(learning);lua();" alt="Stack animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3800&pause=800&color=F92672&center=true&vCenter=true&repeat=true&width=500&lines=python();rust();flutter();javascript();typescript(0.3);lua();" alt="Stack animation" />
 </div>
-
-<br/>
 
 ```bash
 # mission_briefing.sh
@@ -11,49 +8,47 @@ $ whoami
 > christopher_joshy
 
 $ motto
-> "Persistence is my superpower."
+> "Never giving up is my magic."
 
 $ system
-> Arch Linux | Loves clean code | Breathes O₂ (99.99% uptime)
-````
+> Arch Linux user | Married None | Breathes O2
+```
 
 ```jsonc
 {
-  "languages": [
-    "Python",
-    "Rust",
-    "Flutter / Dart",
-    "JavaScript",
-    "TypeScript (in progress)",
-    "Lua"
-  ],
-  "toolbox": {
-    "engines": ["Unreal Engine (Blueprints + a bit of C++)"],
-    "automation": ["n8n"],
-    "cloud": ["Firebase", "Supabase"],
-    "containers": ["Docker – leveling up"],
-    "learning": ["Java (academic level)"]
-  },
-  "vibe": "Calm, consistent, and shipping."
+    "languages": [
+        "Python",
+        "Rust",
+        "Flutter / Dart",
+        "JavaScript",
+        "TypeScript (still leveling up)",
+        "Lua"
+    ],
+    "toolbox": {
+        "engines": ["Unreal Engine (Blueprints + a dash of C++)"],
+        "automation": ["n8n"],
+        "cloud": ["Firebase", "Supabase"],
+        "containers": ["Docker (training arc)"],
+        "languages_in_progress": ["Java (college level)"]
+    },
+    "vibe": "Lazy"
 }
 ```
 
 ```rust
 fn current_focus() -> &'static str {
-    "Mastering Docker workflows and building smooth Flutter experiences."
+        "Sharpening container-fu with Docker while crafting playful Flutter UIs."
 }
 
 fn next_episode() -> &'static str {
-    "Launch a project that feels like a cinematic cutscene."
+        "Ship something that feels like a cutscene." // keeping the storyboard rolling
 }
 ```
-
 ```ascii
-/\\   rebooting ideas in real time...
-\/    writing code, refining systems, breathing O₂
+/\\   rebooting dreams in real time ...
+\/  .....coding, syncing, breathing O2 (error 1243)
 ```
 
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=ChristopherJoshy&label=visitors&color=FF79C6&style=flat-square" alt="Profile visitor counter" />
+    <img src="https://komarev.com/ghpvc/?username=ChristopherJoshy&label=visitors&color=FF79C6&style=flat-square" alt="Profile visitor counter" />
 </p>
-```
