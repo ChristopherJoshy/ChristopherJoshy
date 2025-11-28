@@ -11,7 +11,7 @@ $ motto
 > "Never giving up is my magic."
 
 $ system
-> Arch Linux user | Married to code | Breathes code
+> Arch Linux user | Married None | Breathes O2
 ```
 
 ```jsonc
