@@ -11,6 +11,10 @@
   </p>
 </div>
 
+<p align="center">
+  <img src="https://github.com/ChristopherJoshy/capybara/blob/codex/v6-handoff/.github/assets/capybara-hero.gif?raw=true" width="78%" alt="Animated Capybara sensing illustration" />
+</p>
+
 ## 👋 A little about me
 
 I like building the whole thing: the interface people touch, the service behind it, and the systems that keep it honest. Lately that has meant realtime games, on-device sensing, AI-assisted tools, and small products with a clear point of view.
