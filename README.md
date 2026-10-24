@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/ChristopherJoshy/capybara/blob/codex/v6-handoff/.github/assets/capybara-hero.gif?raw=true" width="78%" alt="Animated Capybara sensing illustration" />
+  <img src="https://github.com/ChristopherJoshy/Capybara/blob/codex/v6-handoff/.github/assets/capybara-hero.gif?raw=true" width="78%" alt="Animated Capybara sensing illustration" />
 </p>
 
 ## 👋 A little about me
@@ -23,20 +23,20 @@ I like building the whole thing: the interface people touch, the service behind 
 
 | Project | What I’m exploring |
 |---|---|
-| [Deadreckon](https://github.com/ChristopherJoshy/deadreckon) | GNSS integrity checks against the phone’s own sensors |
-| [Redline](https://github.com/ChristopherJoshy/redline) | A local-first LLM CTF arena |
-| [Paper Trail](https://github.com/ChristopherJoshy/paper-trail) | Image evidence, provenance, and verifiable fingerprints |
-| [Nexus Wars](https://github.com/ChristopherJoshy/nexus-wars) | Competitive bot battles with a sandboxed worker |
-| [Capybara](https://github.com/ChristopherJoshy/capybara) | Camera-free physical-response sensing on Android |
-| [Typelo](https://github.com/ChristopherJoshy/typelo) | Ranked typing duels — [try it live](https://www.typelo.tech/) |
-| [Orito](https://github.com/ChristopherJoshy/orito) | A Linux assistant built around planning and checked tools |
-| [Orix](https://github.com/ChristopherJoshy/orix) | Campus ride coordination with route matching |
-| [WikiRun](https://github.com/ChristopherJoshy/wikirun) | An AI navigating Wikipedia one link at a time |
-| [HYDRA](https://github.com/ChristopherJoshy/hydra) | A satellite-imagery water-quality prototype |
+| [DeadReckon](https://github.com/ChristopherJoshy/DeadReckon) | GNSS integrity checks against the phone’s own sensors |
+| [Redline](https://github.com/ChristopherJoshy/Redline) | A local-first LLM CTF arena |
+| [PaperTrail](https://github.com/ChristopherJoshy/PaperTrail) | Image evidence, provenance, and verifiable fingerprints |
+| [Nexus-Wars](https://github.com/ChristopherJoshy/Nexus-Wars) | Competitive bot battles with a sandboxed worker |
+| [Capybara](https://github.com/ChristopherJoshy/Capybara) | Camera-free physical-response sensing on Android |
+| [Typelo](https://github.com/ChristopherJoshy/Typelo) | Ranked typing duels — [try it live](https://www.typelo.tech/) |
+| [Orito](https://github.com/ChristopherJoshy/Orito) | A Linux assistant built around planning and checked tools |
+| [Orix](https://github.com/ChristopherJoshy/Orix) | Campus ride coordination with route matching |
+| [WikiRun](https://github.com/ChristopherJoshy/WikiRun) | An AI navigating Wikipedia one link at a time |
+| [HYDRA](https://github.com/ChristopherJoshy/HYDRA) | A satellite-imagery water-quality prototype |
 
 ## 🧪 More things I’ve made
 
-[**Aura**](https://github.com/ChristopherJoshy/aura) · [**Sahayi**](https://github.com/ChristopherJoshy/sahayi) · [**Doula**](https://github.com/ChristopherJoshy/doula) · [**Zen Striker**](https://github.com/ChristopherJoshy/zen-striker) · [**Lumen**](https://github.com/ChristopherJoshy/lumen) · [**Atelier**](https://github.com/ChristopherJoshy/atelier) · [**Ideator**](https://github.com/ChristopherJoshy/ideator) · [**Pulse**](https://github.com/ChristopherJoshy/pulse) · [**Orbit Wars**](https://github.com/ChristopherJoshy/orbit-wars)
+[**Aura**](https://github.com/ChristopherJoshy/Aura) · [**Sahayi**](https://github.com/ChristopherJoshy/Sahayi) · [**Doula**](https://github.com/ChristopherJoshy/Doula) · [**ZenStriker**](https://github.com/ChristopherJoshy/ZenStriker) · [**Lumen**](https://github.com/ChristopherJoshy/Lumen) · [**Atelier**](https://github.com/ChristopherJoshy/Atelier) · [**Muse**](https://github.com/ChristopherJoshy/Muse) · [**Pulse**](https://github.com/ChristopherJoshy/Pulse) · [**OrbitWars**](https://github.com/ChristopherJoshy/OrbitWars)
 
 ## 🧰 Tools I reach for
 
